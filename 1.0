@@ -1,0 +1,74 @@
+<html>
+    <body>
+	    <p>lets habe an rxample</p>
+		<p>
+		<a href="http://www.php.cn">php中文网</a>
+		</p>
+		</body>
+		</html>
+		
+		
+<a href=”#跳转目的地的名称“>跳转起始字符</a>
+.....
+.....
+.....
+<a name="跳转目的地的名称“>跳转目的地字符</a>
+
+
+
+<html>
+<title>表格</title>
+<body style="font-size:20px">
+   <p stlye="text-align:center">表格</p>
+   <table align="center"border="1">
+         <tr>
+		 <td>第一行和第一列</td>
+		 <td>第一行和第二列</td>
+		 <td>第一行和第三列</td>
+		 </tr>
+		 <tr>
+		 <td>第二行和第一列</td>
+		 <td>第二行和第二列</td>
+		 <td>第二行和第三列</td>
+		 </td>
+    </table>
+	<ol>
+    <li>blabla</li>
+    <li>blabla</li>
+    <li>blabla</li>
+    <li>blabla</li>
+    <li>blabla</li>
+    </ol>
+	<ul>
+	<li>hallo</li>
+	<li>hallo</li>
+	<li>hallo</li>
+	</ul>
+</body>
+</html>
+
+<html>
+    <body>
+	    <p>lets habe an rxample</p>
+		<p>
+		<a href="http://www.php.cn">php中文网</a>
+		</p>
+		<h1>背景图片</h1>
+		<body background="小图1.jpg">
+		<p>我们的背景图片</p>
+		</body>
+		</html>
+		
+<html>
+<head>
+<title>Test</title>
+</head>
+<body>
+    <dl>php中文网</dl>
+	    <dd>欢迎来到php中文网</dd>
+	<dl>php中文网</dl>
+	    <dd>欢迎来到php中文网</dd>
+</body>
+</html>
+
+
