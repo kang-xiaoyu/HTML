@@ -58,7 +58,17 @@
 		<p>我们的背景图片</p>
 		</body>
 		</html>
-		
+		<html>
+<head>
+<title>Test</title>
+</head>
+<body>
+    <dl>php中文网</dl>
+	    <dd>欢迎来到php中文网</dd>
+	<dl>php中文网</dl>
+	    <dd>欢迎来到php中文网</dd>
+</body>
+</html>
 
 
 
