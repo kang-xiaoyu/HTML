@@ -49,6 +49,7 @@
 
 <html>
     <body>
+	    <dlv>
 	    <p>lets habe an rxample</p>
 		<p>
 		<a href="http://www.php.cn">php中文网</a>
@@ -56,6 +57,7 @@
 		<h1>背景图片</h1>
 		<body background="小图1.jpg">
 		<p>我们的背景图片</p>
+		</dlv>
 		</body>
 		</html>
 		
@@ -71,4 +73,64 @@
 </body>
 </html>
 
+<html>
+<body bgcolor="gray">
+<table width="1000">
+   <tr>
+       <td colspn="2" style="background-color:
+	       royalbue">
+		   <h1 align="center"PHP中文网</h1>
+	   </td>
+   <tr>
+   <tr valign="top">
+       <td style="background-color:darkorange:width:300px">
+	       <dl>
+		       <dt>list of hock</dt>
+			   <dd>
+			       <ol>
+				       <li>hadoop</li>
+					   <li>linux</li>
+				   </ol>
+			   </dd>
+		    </dl>
+	   </td>
+</table>
+</body>
+</html>
 
+
+<from method=“post" action="<save.php>"
+      <label for="username">用户名:</label>
+	  <input type="username" name="username"/>
+	  <label for="passwprd">密码:</label>
+	  <input type="password" name="password"/>
+</form>
+
+
+
+<from method=“post" action="<save.php>"
+   <label>联系我们</lable>
+   <textarea cols="50" rows="10">文本
+   </textarea>
+ </from>
+
+<DOCTYPE html>
+<html lang="zh-hans"
+<head>
+<meta charset="utf-8">
+</head>
+<title>单选框 复选框</title>
+<body>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<form action="save.php" method="post">
+<label>性别</label>
+<label>男</label>
+<input type="radio" value="1" name="sex" />
+<label>女</label>
+<input type="radio" value="1" name="sex" />
+</form>
+</body>
+</html>
+
+
+     
